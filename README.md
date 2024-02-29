@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
-- 💬 Ask me about **Excited to learn new things**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **nk4873300@gmail.com**
 
