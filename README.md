@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/nikhilkumar0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilkumar0908" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nikhil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikhil kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhil_kumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_kumar2311" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nk4873300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nk4873300" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/@nk4873300](https://www.hackerrank.com/profile/nk4873300)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nk4873300" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilkumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilkumar2311" height="30" width="40" /></a>
 </p>
 
