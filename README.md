@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar2311&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar2311" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **Frameworks**
 
 - 💬 Ask me about **Java, Python**
 
