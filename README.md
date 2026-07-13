@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar2311&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar2311" /> </p>
 
-- 🔭 I independently built and owned the **AWS cloud infrastructure function from scratch** at PocketWise Technologies — Terraform, CI/CD, and full observability, starting with nothing in place
+- 🔭 I independently built and owned the **AWS cloud infrastructure function from scratch** at PocketWise Technologies - Terraform, CI/CD, and full observability, starting with nothing in place
 
 - ⚙️ I work across **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, and Prometheus/Grafana/Loki**
 
@@ -14,7 +14,7 @@
 
 - 💻 Full stack: **React, Node.js, TypeScript, Python, MongoDB**
 
-- 🤝 Open source contributor — merged PRs in **Docker docs** and **Prowler** (AWS security scanner)
+- 🤝 Open source contributor - merged PRs in **Docker docs** and **Prowler** (AWS security scanner)
 
 - 🎓 B.Tech in Computer Science, Parul University (2026)
 
@@ -28,8 +28,7 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **[Pitchrr.in](https://github.com/Nikhilkumar2311)** — AI-powered startup intelligence platform using RAG + Vector DB, deployed on AWS ECS
-- **AstroYug** — Microservices app built with Express/TypeScript and MongoDB, deployed on a Hostinger VPS
+- **Pitchrr.in** — AI-powered startup intelligence platform using RAG + Vector DB, deployed on AWS ECS
 - **SymptoCare** — Multilingual AI-powered symptom triage tool built at a hackathon
 - **CI-CD-PIPELINE** — End-to-end pipeline migrating from Jenkins to GitHub Actions with full observability
 
