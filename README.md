@@ -28,9 +28,9 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **Pitchrr.in** — AI-powered startup intelligence platform using RAG + Vector DB, deployed on AWS ECS
-- **SymptoCare** — Multilingual AI-powered symptom triage tool built at a hackathon
-- **CI-CD-PIPELINE** — End-to-end pipeline migrating from Jenkins to GitHub Actions with full observability
+- **Pitchrr.in** - AI-powered startup intelligence platform using RAG + Vector DB, deployed on AWS ECS
+- **SymptoCare** - Multilingual AI-powered symptom triage tool built at a hackathon
+- **CI-CD-PIPELINE** - End-to-end pipeline migrating from Jenkins to GitHub Actions with full observability
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
